@@ -83,11 +83,11 @@ WSGI_APPLICATION = 'MovieService.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'postgres',
-        'USER': 'postgres',
-        'PASSWORD': '7762119t',
-        'HOST': 'localhost',
-        'PORT': '5432',
+        'NAME': 'd7dms8khkl76ip',
+        'USER': 'ckgdlztvdgckvc',
+        'PASSWORD': '553d9f8cab105ac25ba3a7a767a020243669df7eaab6bd63dbed8504da5356fa',
+        'HOST': 'ec2-54-211-176-156.compute-1.amazonaws.com',
+        'PORT': '5432'
     }
 }
 
