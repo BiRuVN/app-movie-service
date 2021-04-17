@@ -26,7 +26,7 @@ SECRET_KEY = '+-!qhynagai%68v6_&xde_vrn(3xe3t1b7y%+$ic!z49sipwkg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['app-movie-service.herokuapp.com']
 
 
 # Application definition
